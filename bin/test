@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+bundle exec rspec
+WITH_OPEN_TELEMETRY=true bundle exec rspec
