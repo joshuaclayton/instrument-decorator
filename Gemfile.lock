@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    instrument-decorator (0.1.0)
+    instrument-decorator (0.2.0)
       activesupport (>= 7)
 
 GEM
