@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     instrument-decorator (0.1.0)
-      activesupport (~> 7)
+      activesupport (>= 7)
 
 GEM
   remote: https://rubygems.org/
